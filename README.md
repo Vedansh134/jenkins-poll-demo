@@ -20,3 +20,6 @@ Create for testing jenkins and practice purpose only
 # Note
 - This repository is for testing and practice purposes only. It is not intended for production use or any commercial applications. Please use it responsibly and ensure that you have the necessary permissions to access and modify the repository.
 
+
+- Testing poll scm
+
